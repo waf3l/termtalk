@@ -11,7 +11,6 @@ define(['jquery','view.index','model.connection'],function($,ViewIndex,ModelConn
 			ModelConn.session.id = msg.id;
 			ModelConn.session.nick = msg.nick;
 			ViewIndex.responseCommand({color:'color-server-info',msg:msg.msg})
-			//add setup prompt
 		};
 
 		function on_shout(msg){
