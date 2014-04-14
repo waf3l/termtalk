@@ -1,0 +1,24 @@
+.cmd-output {
+	display: block;
+	width: 100%;	
+}
+
+.cmd-output div {
+	width: 100%;
+}
+
+.cmd-input {
+	display: inline-block;
+	width: 100%;
+}
+
+.cmd-input span {
+	float: left;
+} 
+
+.cmd-input textarea {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	opacity: 0.01;
+}

@@ -1,0 +1,44 @@
+.color-server-info {
+	color: #00E712;
+}
+
+.color-server-cmd {
+	color:#22B8FF;
+}
+
+.color-server-error {
+	color:#E70000;
+}
+
+.color-server-warning {
+	color:#FF7305;
+}
+
+.color-server-broadcast {
+	color:#D705FF;	
+}
+
+.color-server-chat {
+	color:#F3F320;
+}
+
+
+.info {
+	color:#0FAEFE;
+}
+
+.success {
+	color: #00E712;
+}
+
+.warning {
+	color:#FF7305;
+}
+
+.danger {
+	color:#E70000;
+}
+
+.message {
+	color:#F3F320;
+}
